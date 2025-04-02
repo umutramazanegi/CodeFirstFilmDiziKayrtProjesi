@@ -1,4 +1,4 @@
-# CodeFirstFilmDiziKayrtProjesi 🎬
+# CodeFirstFilmDiziKayitProjesi 🎬
 
 Bu proje, .NET Framework üzerinde C# ve Windows Forms kullanılarak geliştirilmiş, Entity Framework **Code First** yaklaşımıyla basit bir Film/Dizi ve Kategori kayıt yönetim uygulamasıdır.
 
